@@ -4,7 +4,5 @@ Alejandro Corrales Chalarca.
 Luis Fernando Morales Chavarria 
 Santiago Holguín Beltrán
 Camila
-<<<<<<< HEAD
 susana 
-=======
->>>>>>> 8959777 (.)
+leon
